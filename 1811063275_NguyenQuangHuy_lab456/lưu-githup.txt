@@ -1,0 +1,7 @@
+1. Tạo repo
+2. vào File --> add to source control
+3. Tools --> Option --> Source Control ---> Git
+4. View --> Team explore
+5. Nhấp vào biểu tượng Home -->SYNC
+6. Chọn Push to remote reponsitory --> Publis Git repo
+7. Dán đường link git đã tạo lúc trước
