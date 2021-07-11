@@ -17,6 +17,7 @@ namespace _1811063275_NguyenQuangHuy_lab456
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+
             );
         }
     }
